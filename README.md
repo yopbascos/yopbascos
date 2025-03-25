@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science with a major in Software Engineering
+I'm currently studying Computer Science with a major in Software Engineering at FEU Institute of Technology
 
 
 ## 🌐 Socials:
